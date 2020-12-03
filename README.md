@@ -1,4 +1,4 @@
-[Wifite](Wifite)
+Wifite2-improved
 ======
 
 This repo is an improved version of [`wifite2`](https://github.com/derv82/wifite2), a complete re-write of [`wifite`](https://github.com/derv82/wifite), a Python script for auditing wireless networks.
